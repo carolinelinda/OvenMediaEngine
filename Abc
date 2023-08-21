@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turma do saporski</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="Colégio-Cívico-Militar.jpg" alt="logo do colégio">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+    <section class="escola">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre a Escola</h2>
+            <p class="escola-texto-um">A Escola Civíco Militar Sebastião Saporski tem como objetivo ensinar os alunos e realizar a formação completa dos estudantes, e através ensino do mudar vidas.</p>
+            <p class="escola-texto-dois">A turma mais estudiosa e famosa é a Segunda Série A. Nós somos super unidos e a turma favorita por todos os professores e professoras que nos ajudam!</p>
+        </div>
+        <img class="escola-imagem" src="apple-256261_1280.jpg" alt="imagem que representa um elemento da sala de aula">
+    </section>
+    <section class="estudante">
+        <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
+        <div class="estudante-todos">
+        <span></span>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="leticia.jpeg" alt="foto da leticia">
+            <h3 class="estudante-nome">Letícia</h3>
+            <a href="https://github.com/leticianll"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://instagram.com/le_lettiee"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="13cdaeb1-13bc-4a12-b3c1-ee3d0cbf9391.jpg" alt="foto da carol">
+            <h3 class="estudante-nome">Carol</h3>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="71ab7aab-3b59-40e3-bf16-3253059aeb48.jpg" alt="foto da maria">
+            <h3 class="estudante-nome">Maria</h3>
+        </div>
+        <span></span>
+        <span></span>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="ba681c8f-e1d7-4ce8-b9e9-f5724e295819.jpg" alt="foto do mateus">
+            <h3 class="estudante-nome">Mateus</h3>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="010a2b43-269e-4fa0-97ac-568806695fbf.jpg" alt="foto da davi">
+            <h3 class="estudante-nome">Davi</h3>
+                  </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="d5c3d8b7-b41a-4d50-a8d2-c0e63eac3784.jpg" alt="foto do miguel">
+            <h3 class="estudante-nome">Miguel</h3>
+        </div>
+        <span></span>
+        <span></span>
+    </section>
+    <footer class="rodape">
+        <img class="rodape-imagem"src="alurastart logo.png" alt="logo da alura start">
+    </footer>
+</body>
+</html>
